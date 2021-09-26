@@ -8,6 +8,7 @@
 more to connect on: 
 
 Linkedin: https://www.linkedin.com/in/-akshay-/
+
 Discord: akshay#2278 | 855330340927569961
 
 <!---
