@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @akshay1a
-- 👀 I’m interested in AI/ML internships
-- 🌱 I’m currently pursuing BCA - Data Science
-- 💞️ I’m looking to collaborate on any project work related to web developement, software development, ML/AI and especially python projects
-- 📫 whatsapp <a href="https://wa.me/919810368359/">9810368359</a> to reach me ... or mail me at akshay125678@gmail.com
+- 👀 I’m interested in AI and ML internships
+- 🌱 I’m a BCA - Data Science Graduate
+- 💞️ I’m looking to collaborate on any project work related to ML/AI projects, Python projects, web development, and software development projects.
+- 📫 WhatsApp <a href="https://wa.me/919810368359/">9810368359</a> to reach me ... or mail me at akshay125678@gmail.com
 
 
 more to connect on: 
